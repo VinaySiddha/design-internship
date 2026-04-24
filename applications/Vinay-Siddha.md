@@ -4,7 +4,7 @@
 
 ## 1. Name
 
-_Vinay Kumar Siddhas._
+_Vinay Kumar Siddha._
 
 ## 2. Portfolio
 
